@@ -61,9 +61,9 @@ let portfolioCollection = [
   },
   {
     "itemTitle" : "blue1",
-    "category" : "2D",
-    "id" : "digital",
-    "description" : "Medium | digital art. The piece echoes the work 'dancing ceramics'. It shows various compositions of organic shapes, like the ceramic series Illusion. The piece also incorporates the idea of irregularity. There is no right or wrong in art. Instead, art is a multifaceted experience and has different approaches, like these compositions.",
+    "category" : "digital",
+    "id" : "blue1",
+    "description" : "Tools: Procreate. The piece echoes the work 'dancing ceramics'. It shows various compositions of organic shapes, like the ceramic series Illusion. The piece also incorporates the idea of irregularity. There is no right or wrong in art. Instead, art is a multifaceted experience and has different approaches, like these compositions.",
     "image" : "blue.jpg"
   },
   {
@@ -80,14 +80,6 @@ let portfolioCollection = [
     "id" : "heart",
     "description" : "Medium | mixed media. In this piece, I intend to express the compulsion of desiring perfection vs. remaining something that is unrefined and pure. The choice of collage represents how artists tend to create pieces with an intuitive flow, yet it is difficult to control the mind when striving to make a piece good through multiple edits and arrangements. Ultimately, minds go out of control.",
     "image" : "IMG_6465_jpg.jpg"
-  },
-
-  {
-    "itemTitle" : "about me",
-    "category" : "aboutme",
-    "id" : "aboutme",
-    "description" : "under construction...",
-    "image" : "me.jpg"
   },
 
   {
@@ -116,7 +108,7 @@ let portfolioCollection = [
     "category" : "digital",
     "id" : "kiosk",
     "description" : "Tools: Adobe XD, Adobe Illustrator. Final project for Visual Foundation Studio DM-UY 1123 course for the Integrated Design & Media major at NYU. ",
-    "image" : "capri.png"
+    "image" : "kiosks.png"
   },
   
   {
@@ -126,6 +118,15 @@ let portfolioCollection = [
     "description" : "Tools: Adobe Indesign, Adobe Illustrator. A project for Visual Foundation Studio DM-UY 1123 course for the Integrated Design & Media major at NYU. ",
     "image" : "placemat.png"
   },
+
+  {
+    "itemTitle" : "about me",
+    "category" : "aboutme",
+    "id" : "aboutme",
+    "description" : "under construction...",
+    "image" : "me.jpg"
+  },
+
 ];
 
 document.addEventListener("DOMContentLoaded", function(){
