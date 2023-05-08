@@ -120,6 +120,22 @@ let portfolioCollection = [
   },
 
   {
+    "itemTitle" : "jellyfish",
+    "category" : "digital",
+    "id" : "jelly",
+    "description" : "Tools: Fujifilm FinePix AX650 CCD",
+    "image" : "jelly1.JPG",
+  },
+
+    {
+    "itemTitle" : "The Fish",
+    "category" : "2D",
+    "id" : "fish",
+    "description" : "Medium | acrylic",
+    "image" : "IMG_2562.jpeg",
+  },
+
+  {
     "itemTitle" : "about me",
     "category" : "aboutme",
     "id" : "aboutme",
